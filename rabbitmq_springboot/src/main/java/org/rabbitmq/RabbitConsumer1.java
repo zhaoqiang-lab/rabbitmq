@@ -19,4 +19,8 @@ public class RabbitConsumer1 {
         System.out.println("mes=:" + mes);
     }
 
+    public static void main(String[] args) {
+        System.out.println("rabbitmq-v1.0.0-20200731");
+    }
+
 }
